@@ -111,7 +111,7 @@
    - **数据库**：选择步骤一创建的数据库
 3. 保存设置
 
-> 如需使用 AI 翻译，请在 Worker 绑定中额外添加 **Workers AI** 绑定，变量名为 `AI`。
+> 如需使用 AI 翻译，请在 Worker 绑定中额外添加 **Workers AI** 绑定，变量名为 `AI`。(2026-6-27翻译功能已失效)
 
 ### 步骤四：配置 Turnstile 验证
 1. 在 Cloudflare 侧边栏选择 **Turnstile → 添加站点**
